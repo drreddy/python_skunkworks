@@ -1,7 +1,7 @@
 Nltk Notebooks
 ==
 
-> This repo contains various notebooks written by me for sentiment classifications and stuff using nltk. Presently the repo contains my implementation of nltk's inbuilt Naive Bayes Classifier on twitter data. You can view the Classifier file online [here](http://nbviewer.ipython.org/github/drreddy/python_skunkworks/blob/master/nltkNotebooks/nltk_classify.ipynb)
+> This repo contains various notebooks written by me for sentiment classifications and stuff using nltk. Presently the repo contains my implementation of nltk's inbuilt Naive Bayes Classifier and Maximum Entropy Classifier on twitter data. You can view the Classifier file online [here](http://nbviewer.ipython.org/github/drreddy/python_skunkworks/blob/master/nltkNotebooks/nltk_sent_classifiers.ipynb)
 
 Local Installation
 --------------

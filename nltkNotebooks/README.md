@@ -6,7 +6,7 @@ Nltk Notebooks
 **Presently the repo contains:**
 
 1. My implementation of nltk's inbuilt Naive Bayes Classifier and Maximum Entropy Classifier on twitter data. You can view the Classifier file online [here](http://nbviewer.ipython.org/github/drreddy/python_skunkworks/blob/master/nltkNotebooks/nltk_sent_classifiers.ipynb)
-2. My implementation of text summarizer using words frequencies for ranking the sentences of the text. You can view the notebook file online [here](http://nbviewer.ipython.org/github/drreddy/python_skunkworks/blob/master/nltkNotebooks/nltk_summarizer.ipynb)
+2. My implementation of text summarizers one using words frequencies for ranking the sentences of the text and another using textrank (similar to pagerank). You can view the notebook file online [here](http://nbviewer.ipython.org/github/drreddy/python_skunkworks/blob/master/nltkNotebooks/nltk_summarizer.ipynb)
 
 
 Local Installation
